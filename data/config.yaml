@@ -1,12 +1,11 @@
-name: Jacky Zhao
+name: mulfok
 enableToc: true
 description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
+  mulfok's public notes.
 page_title:
   Quartz Example Page
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/mulfok
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/mulfok
