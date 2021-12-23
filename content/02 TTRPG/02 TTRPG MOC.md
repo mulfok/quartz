@@ -2,4 +2,4 @@
 title: "02 TTRPG MOC"
 ---
 
-[Index](_index) ← **02 TTRPG**
+[_index](_index.md) ← **02 TTRPG**
